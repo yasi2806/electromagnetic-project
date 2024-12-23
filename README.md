@@ -16,5 +16,5 @@ pip install numpy matplotlib
 ```
 برای اجرا:
 ```bash
-python3 "Electric Field and Potential Map.py"
+python "Electric Field and Potential Map.py"
 ```
